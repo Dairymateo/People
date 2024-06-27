@@ -1,0 +1,1 @@
+C:\Users\mate\source\repos\PrimeraAppMAUI\PrimeraAppMAUI\PrimeraAppMAUI.csproj;x64

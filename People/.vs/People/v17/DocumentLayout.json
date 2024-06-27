@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate\\source\\repos\\People\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|c:\\users\\mate\\source\\repos\\people\\modelos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1C492F-53AA-48F0-8F1A-4DF2258789C4}|People.csproj|solutionrelative:modelos\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:15:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "PersonRepository.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\PersonRepository.cs",
+              "RelativeToolTip": "PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:13:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:59:44.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T12:58:55.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "Repository\\PersonRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwD8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:53:47.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\People\\Modelos\\Person.cs",
+              "RelativeDocumentMoniker": "Modelos\\Person.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\People\\Modelos\\Person.cs",
+              "RelativeToolTip": "Modelos\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:50:57.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

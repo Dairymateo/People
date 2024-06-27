@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate\\source\\repos\\ClaseJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\wwwroot\\js\\clase1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\wwwroot\\js\\clase1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|c:\\users\\mate\\source\\repos\\clasejs\\clasejs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A554AB3E-77FD-4DE9-833F-4BDCB8D8E3AE}|ClaseJS\\ClaseJS.csproj|solutionrelative:clasejs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jquery.js",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeDocumentMoniker": "ClaseJS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "RelativeToolTip": "ClaseJS\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-09T11:29:14.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ClaseJS\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ClaseJS\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-09T11:21:02.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaseJS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClaseJS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:24:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clase1.js",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\js\\clase1.js",
+              "RelativeDocumentMoniker": "ClaseJS\\wwwroot\\js\\clase1.js",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\wwwroot\\js\\clase1.js",
+              "RelativeToolTip": "ClaseJS\\wwwroot\\js\\clase1.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-09T11:21:26.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClaseJS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClaseJS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:20:27.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ClaseJS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ClaseJS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T11:20:03.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaseJS\\appsettings.json",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseJS\\ClaseJS\\appsettings.json",
+              "RelativeToolTip": "ClaseJS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T11:19:53.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

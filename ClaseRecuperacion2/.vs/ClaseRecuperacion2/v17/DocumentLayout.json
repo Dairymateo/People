@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\views\\personas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\data\\claserecuperacion2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\data\\claserecuperacion2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\migrations\\20240429231101_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\migrations\\20240429231101_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|c:\\users\\mate\\source\\repos\\claserecuperacion2\\claserecuperacion2\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A795F37-87A8-4973-A851-ABD6A8E67912}|ClaseRecuperacion2\\ClaseRecuperacion2.csproj|solutionrelative:claserecuperacion2\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Personas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Views\\Personas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Personas\\Index.cshtml",
+              "RelativeToolTip": "ClaseRecuperacion2\\Views\\Personas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:50:03.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ClaseRecuperacion2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T10:49:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClaseRecuperacion2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:25:33.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ClaseRecuperacion2\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-29T23:22:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClaseRecuperacion2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T23:20:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240429231101_Database.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Migrations\\20240429231101_Database.cs",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Migrations\\20240429231101_Database.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Migrations\\20240429231101_Database.cs",
+              "RelativeToolTip": "ClaseRecuperacion2\\Migrations\\20240429231101_Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:11:02.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaseRecuperacion2Context.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Data\\ClaseRecuperacion2Context.cs",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Data\\ClaseRecuperacion2Context.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Data\\ClaseRecuperacion2Context.cs",
+              "RelativeToolTip": "ClaseRecuperacion2\\Data\\ClaseRecuperacion2Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:10:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\appsettings.json",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\appsettings.json",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\appsettings.json",
+              "RelativeToolTip": "ClaseRecuperacion2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T23:08:06.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "ClaseRecuperacion2\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:07:56.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "ClaseRecuperacion2\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\ClaseRecuperacion2\\ClaseRecuperacion2\\Models\\Persona.cs",
+              "RelativeToolTip": "ClaseRecuperacion2\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:05:24.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

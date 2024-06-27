@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\migrations\\20240424224417_a\u00F1adir registro de vacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\migrations\\20240424224417_a\u00F1adir registro de vacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\migrations\\20240424212020_inicializar db semana 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\migrations\\20240424212020_inicializar db semana 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\migrations\\tallerconexi\u00F2nbasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\migrations\\tallerconexi\u00F2nbasecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\controllers\\registrovacunacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\controllers\\registrovacunacionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\models\\vacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\models\\recintovacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\models\\recintovacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\models\\registrovacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\models\\registrovacunacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|c:\\users\\mate\\source\\repos\\tallerconexi\u00F2nbase\\tallerconexi\u00F2nbase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F1F3595-C232-4E28-BA31-B5CA6C44E200}|TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase.csproj|solutionrelative:tallerconexi\u00F2nbase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroVacunacionsController.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Controllers\\RegistroVacunacionsController.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Controllers\\RegistroVacunacionsController.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Controllers\\RegistroVacunacionsController.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Controllers\\RegistroVacunacionsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:42:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Controllers\\PaisController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:15:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Pais.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Models\\Pais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:55:43.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TallerConexi\u00F2nbaseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\TallerConexi\u00F2nbaseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Migrations\\TallerConexi\u00F2nbaseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\TallerConexi\u00F2nbaseContextModelSnapshot.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Migrations\\TallerConexi\u00F2nbaseContextModelSnapshot.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAgwI4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:47:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240424212020_Inicializar DB Semana 4.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\20240424212020_Inicializar DB Semana 4.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Migrations\\20240424212020_Inicializar DB Semana 4.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\20240424212020_Inicializar DB Semana 4.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Migrations\\20240424212020_Inicializar DB Semana 4.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:20:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T23:18:59.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Views\\Pais\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Views\\Pais\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T23:30:16.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240424224417_A\u00F1adir registro de vacunacion.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\20240424224417_A\u00F1adir registro de vacunacion.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Migrations\\20240424224417_A\u00F1adir registro de vacunacion.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Migrations\\20240424224417_A\u00F1adir registro de vacunacion.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Migrations\\20240424224417_A\u00F1adir registro de vacunacion.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwGEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:44:17.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vacuna.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Vacuna.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Models\\Vacuna.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Vacuna.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Models\\Vacuna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:58:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistroVacunacion.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\RegistroVacunacion.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Models\\RegistroVacunacion.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\RegistroVacunacion.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Models\\RegistroVacunacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:08:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecintoVacunacion.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\RecintoVacunacion.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Models\\RecintoVacunacion.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\RecintoVacunacion.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Models\\RecintoVacunacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:01:34.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\appsettings.json",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\appsettings.json",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\appsettings.json",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T21:21:28.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "TallerConexi\u00F2nbase\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\TallerConexi\u00F2nbase\\TallerConexi\u00F2nbase\\Models\\Estudiante.cs",
+              "RelativeToolTip": "TallerConexi\u00F2nbase\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:04:30.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

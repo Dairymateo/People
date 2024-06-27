@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mate\\source\\repos\\PrimeraAppMAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20805103-0BF4-4717-9C0C-475879A8317F}|PrimeraAppMAUI\\PrimeraAppMAUI.csproj|c:\\users\\mate\\source\\repos\\primeraappmaui\\primeraappmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20805103-0BF4-4717-9C0C-475879A8317F}|PrimeraAppMAUI\\PrimeraAppMAUI.csproj|solutionrelative:primeraappmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mate\\source\\repos\\PrimeraAppMAUI\\PrimeraAppMAUI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PrimeraAppMAUI\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mate\\source\\repos\\PrimeraAppMAUI\\PrimeraAppMAUI\\AppShell.xaml",
+              "RelativeToolTip": "PrimeraAppMAUI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T11:34:50.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
